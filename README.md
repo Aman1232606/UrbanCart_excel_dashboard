@@ -7,7 +7,8 @@ Excel Dashboard analysing sales and profitability for urbancart superstore.
 ## Project Overview
 This project presents an Excel-based interactive dashboard analysing sales and profitability performance for UrbanCart Superstore. The dashboard provides insights into revenue trends, category performance, regional profitability, and the impact of discounts on margins.
 
-(dashboard.png.png)
+<img src="dashboard.png.png" width="800">
+
 
 ---
 
